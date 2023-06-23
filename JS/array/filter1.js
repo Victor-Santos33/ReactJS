@@ -4,6 +4,7 @@ const produtos = [
     { nome: 'Copo de Vidro', preco: 12.49, fragil: true },
     { nome: 'Copo de Plástico', preco: 18.99, fragil: false }
 ]
+//52N6&G#NBm
 
 console.log(produtos.filter(function(p){
     return false
